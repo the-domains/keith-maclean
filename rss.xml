@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Keith MacLean]]></title>
+        <description><![CDATA[Keith MacLean]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 15:56:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keith MacLean]]></title>
+            <description><![CDATA[<article><h1>Keith MacLean</h1><p>Busy is Better Than Boring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0cf80989a911aa5edd3621c8c780f393e2a9df9.jpg"></article>]]></description>
+            <link>undefinedkeith-maclean/index.html</link>
+            <guid isPermaLink="false">7f7acf67-ff94-48a1-a717-848295946f72</guid>
+            <pubDate>Thu, 21 Jan 2016 15:56:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
